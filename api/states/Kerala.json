@@ -1,0 +1,668 @@
+[
+    {
+        "city_name": "Adimaly"
+    },
+    {
+        "city_name": "Adoor"
+    },
+    {
+        "city_name": "Adur"
+    },
+    {
+        "city_name": "Akathiyur"
+    },
+    {
+        "city_name": "Alangad"
+    },
+    {
+        "city_name": "Alappuzha"
+    },
+    {
+        "city_name": "Aluva"
+    },
+    {
+        "city_name": "Ancharakandy"
+    },
+    {
+        "city_name": "Angamaly"
+    },
+    {
+        "city_name": "Aroor"
+    },
+    {
+        "city_name": "Arukutti"
+    },
+    {
+        "city_name": "Attingal"
+    },
+    {
+        "city_name": "Avinissery"
+    },
+    {
+        "city_name": "Azhikode North"
+    },
+    {
+        "city_name": "Azhikode South"
+    },
+    {
+        "city_name": "Azhiyur"
+    },
+    {
+        "city_name": "Balussery"
+    },
+    {
+        "city_name": "Bangramanjeshwar"
+    },
+    {
+        "city_name": "Beypur"
+    },
+    {
+        "city_name": "Brahmakulam"
+    },
+    {
+        "city_name": "Chala"
+    },
+    {
+        "city_name": "Chalakudi"
+    },
+    {
+        "city_name": "Changanacheri"
+    },
+    {
+        "city_name": "Chauwara"
+    },
+    {
+        "city_name": "Chavakkad"
+    },
+    {
+        "city_name": "Chelakkara"
+    },
+    {
+        "city_name": "Chelora"
+    },
+    {
+        "city_name": "Chendamangalam"
+    },
+    {
+        "city_name": "Chengamanad"
+    },
+    {
+        "city_name": "Chengannur"
+    },
+    {
+        "city_name": "Cheranallur"
+    },
+    {
+        "city_name": "Cheriyakadavu"
+    },
+    {
+        "city_name": "Cherthala"
+    },
+    {
+        "city_name": "Cherukunnu"
+    },
+    {
+        "city_name": "Cheruthazham"
+    },
+    {
+        "city_name": "Cheruvannur"
+    },
+    {
+        "city_name": "Cheruvattur"
+    },
+    {
+        "city_name": "Chevvur"
+    },
+    {
+        "city_name": "Chirakkal"
+    },
+    {
+        "city_name": "Chittur"
+    },
+    {
+        "city_name": "Chockli"
+    },
+    {
+        "city_name": "Churnikkara"
+    },
+    {
+        "city_name": "Dharmadam"
+    },
+    {
+        "city_name": "Edappal"
+    },
+    {
+        "city_name": "Edathala"
+    },
+    {
+        "city_name": "Elayavur"
+    },
+    {
+        "city_name": "Elur"
+    },
+    {
+        "city_name": "Eranholi"
+    },
+    {
+        "city_name": "Erattupetta"
+    },
+    {
+        "city_name": "Ernakulam"
+    },
+    {
+        "city_name": "Eruvatti"
+    },
+    {
+        "city_name": "Ettumanoor"
+    },
+    {
+        "city_name": "Feroke"
+    },
+    {
+        "city_name": "Guruvayur"
+    },
+    {
+        "city_name": "Haripad"
+    },
+    {
+        "city_name": "Hosabettu"
+    },
+    {
+        "city_name": "Idukki"
+    },
+    {
+        "city_name": "Iringaprom"
+    },
+    {
+        "city_name": "Irinjalakuda"
+    },
+    {
+        "city_name": "Iriveri"
+    },
+    {
+        "city_name": "Kadachira"
+    },
+    {
+        "city_name": "Kadalundi"
+    },
+    {
+        "city_name": "Kadamakkudy"
+    },
+    {
+        "city_name": "Kadirur"
+    },
+    {
+        "city_name": "Kadungallur"
+    },
+    {
+        "city_name": "Kakkodi"
+    },
+    {
+        "city_name": "Kalady"
+    },
+    {
+        "city_name": "Kalamassery"
+    },
+    {
+        "city_name": "Kalliasseri"
+    },
+    {
+        "city_name": "Kalpetta"
+    },
+    {
+        "city_name": "Kanhangad"
+    },
+    {
+        "city_name": "Kanhirode"
+    },
+    {
+        "city_name": "Kanjikkuzhi"
+    },
+    {
+        "city_name": "Kanjikode"
+    },
+    {
+        "city_name": "Kanjirappalli"
+    },
+    {
+        "city_name": "Kannadiparamba"
+    },
+    {
+        "city_name": "Kannangad"
+    },
+    {
+        "city_name": "Kannapuram"
+    },
+    {
+        "city_name": "Kannur"
+    },
+    {
+        "city_name": "Kannur Cantonment"
+    },
+    {
+        "city_name": "Karunagappally"
+    },
+    {
+        "city_name": "Karuvamyhuruthy"
+    },
+    {
+        "city_name": "Kasaragod"
+    },
+    {
+        "city_name": "Kasargod"
+    },
+    {
+        "city_name": "Kattappana"
+    },
+    {
+        "city_name": "Kayamkulam"
+    },
+    {
+        "city_name": "Kedamangalam"
+    },
+    {
+        "city_name": "Kochi"
+    },
+    {
+        "city_name": "Kodamthuruthu"
+    },
+    {
+        "city_name": "Kodungallur"
+    },
+    {
+        "city_name": "Koduvally"
+    },
+    {
+        "city_name": "Koduvayur"
+    },
+    {
+        "city_name": "Kokkothamangalam"
+    },
+    {
+        "city_name": "Kolazhy"
+    },
+    {
+        "city_name": "Kollam"
+    },
+    {
+        "city_name": "Komalapuram"
+    },
+    {
+        "city_name": "Koothattukulam"
+    },
+    {
+        "city_name": "Koratty"
+    },
+    {
+        "city_name": "Kothamangalam"
+    },
+    {
+        "city_name": "Kottarakkara"
+    },
+    {
+        "city_name": "Kottayam"
+    },
+    {
+        "city_name": "Kottayam Malabar"
+    },
+    {
+        "city_name": "Kottuvally"
+    },
+    {
+        "city_name": "Koyilandi"
+    },
+    {
+        "city_name": "Kozhikode"
+    },
+    {
+        "city_name": "Kudappanakunnu"
+    },
+    {
+        "city_name": "Kudlu"
+    },
+    {
+        "city_name": "Kumarakom"
+    },
+    {
+        "city_name": "Kumily"
+    },
+    {
+        "city_name": "Kunnamangalam"
+    },
+    {
+        "city_name": "Kunnamkulam"
+    },
+    {
+        "city_name": "Kurikkad"
+    },
+    {
+        "city_name": "Kurkkanchery"
+    },
+    {
+        "city_name": "Kuthuparamba"
+    },
+    {
+        "city_name": "Kuttakulam"
+    },
+    {
+        "city_name": "Kuttikkattur"
+    },
+    {
+        "city_name": "Kuttur"
+    },
+    {
+        "city_name": "Malappuram"
+    },
+    {
+        "city_name": "Mallappally"
+    },
+    {
+        "city_name": "Manjeri"
+    },
+    {
+        "city_name": "Manjeshwar"
+    },
+    {
+        "city_name": "Mannancherry"
+    },
+    {
+        "city_name": "Mannar"
+    },
+    {
+        "city_name": "Mannarakkat"
+    },
+    {
+        "city_name": "Maradu"
+    },
+    {
+        "city_name": "Marathakkara"
+    },
+    {
+        "city_name": "Marutharod"
+    },
+    {
+        "city_name": "Mattannur"
+    },
+    {
+        "city_name": "Mavelikara"
+    },
+    {
+        "city_name": "Mavilayi"
+    },
+    {
+        "city_name": "Mavur"
+    },
+    {
+        "city_name": "Methala"
+    },
+    {
+        "city_name": "Muhamma"
+    },
+    {
+        "city_name": "Mulavukad"
+    },
+    {
+        "city_name": "Mundakayam"
+    },
+    {
+        "city_name": "Munderi"
+    },
+    {
+        "city_name": "Munnar"
+    },
+    {
+        "city_name": "Muthakunnam"
+    },
+    {
+        "city_name": "Muvattupuzha"
+    },
+    {
+        "city_name": "Muzhappilangad"
+    },
+    {
+        "city_name": "Nadapuram"
+    },
+    {
+        "city_name": "Nadathara"
+    },
+    {
+        "city_name": "Narath"
+    },
+    {
+        "city_name": "Nattakam"
+    },
+    {
+        "city_name": "Nedumangad"
+    },
+    {
+        "city_name": "Nenmenikkara"
+    },
+    {
+        "city_name": "New Mahe"
+    },
+    {
+        "city_name": "Neyyattinkara"
+    },
+    {
+        "city_name": "Nileshwar"
+    },
+    {
+        "city_name": "Olavanna"
+    },
+    {
+        "city_name": "Ottapalam"
+    },
+    {
+        "city_name": "Ottappalam"
+    },
+    {
+        "city_name": "Paduvilayi"
+    },
+    {
+        "city_name": "Palai"
+    },
+    {
+        "city_name": "Palakkad"
+    },
+    {
+        "city_name": "Palayad"
+    },
+    {
+        "city_name": "Palissery"
+    },
+    {
+        "city_name": "Pallikkunnu"
+    },
+    {
+        "city_name": "Paluvai"
+    },
+    {
+        "city_name": "Panniyannur"
+    },
+    {
+        "city_name": "Pantalam"
+    },
+    {
+        "city_name": "Panthiramkavu"
+    },
+    {
+        "city_name": "Panur"
+    },
+    {
+        "city_name": "Pappinisseri"
+    },
+    {
+        "city_name": "Parassala"
+    },
+    {
+        "city_name": "Paravur"
+    },
+    {
+        "city_name": "Pathanamthitta"
+    },
+    {
+        "city_name": "Pathanapuram"
+    },
+    {
+        "city_name": "Pathiriyad"
+    },
+    {
+        "city_name": "Pattambi"
+    },
+    {
+        "city_name": "Pattiom"
+    },
+    {
+        "city_name": "Pavaratty"
+    },
+    {
+        "city_name": "Payyannur"
+    },
+    {
+        "city_name": "Peermade"
+    },
+    {
+        "city_name": "Perakam"
+    },
+    {
+        "city_name": "Peralasseri"
+    },
+    {
+        "city_name": "Peringathur"
+    },
+    {
+        "city_name": "Perinthalmanna"
+    },
+    {
+        "city_name": "Perole"
+    },
+    {
+        "city_name": "Perumanna"
+    },
+    {
+        "city_name": "Perumbaikadu"
+    },
+    {
+        "city_name": "Perumbavoor"
+    },
+    {
+        "city_name": "Pinarayi"
+    },
+    {
+        "city_name": "Piravam"
+    },
+    {
+        "city_name": "Ponnani"
+    },
+    {
+        "city_name": "Pottore"
+    },
+    {
+        "city_name": "Pudukad"
+    },
+    {
+        "city_name": "Punalur"
+    },
+    {
+        "city_name": "Puranattukara"
+    },
+    {
+        "city_name": "Puthunagaram"
+    },
+    {
+        "city_name": "Puthuppariyaram"
+    },
+    {
+        "city_name": "Puzhathi"
+    },
+    {
+        "city_name": "Ramanattukara"
+    },
+    {
+        "city_name": "Shoranur"
+    },
+    {
+        "city_name": "Sultans Battery"
+    },
+    {
+        "city_name": "Sulthan Bathery"
+    },
+    {
+        "city_name": "Talipparamba"
+    },
+    {
+        "city_name": "Thaikkad"
+    },
+    {
+        "city_name": "Thalassery"
+    },
+    {
+        "city_name": "Thannirmukkam"
+    },
+    {
+        "city_name": "Theyyalingal"
+    },
+    {
+        "city_name": "Thiruvalla"
+    },
+    {
+        "city_name": "Thiruvananthapuram"
+    },
+    {
+        "city_name": "Thiruvankulam"
+    },
+    {
+        "city_name": "Thodupuzha"
+    },
+    {
+        "city_name": "Thottada"
+    },
+    {
+        "city_name": "Thrippunithura"
+    },
+    {
+        "city_name": "Thrissur"
+    },
+    {
+        "city_name": "Tirur"
+    },
+    {
+        "city_name": "Udma"
+    },
+    {
+        "city_name": "Vadakara"
+    },
+    {
+        "city_name": "Vaikam"
+    },
+    {
+        "city_name": "Valapattam"
+    },
+    {
+        "city_name": "Vallachira"
+    },
+    {
+        "city_name": "Varam"
+    },
+    {
+        "city_name": "Varappuzha"
+    },
+    {
+        "city_name": "Varkala"
+    },
+    {
+        "city_name": "Vayalar"
+    },
+    {
+        "city_name": "Vazhakkala"
+    },
+    {
+        "city_name": "Venmanad"
+    },
+    {
+        "city_name": "Villiappally"
+    },
+    {
+        "city_name": "Wayanad"
+    }
+]

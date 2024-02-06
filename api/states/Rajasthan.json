@@ -1,0 +1,740 @@
+[
+    {
+        "city_name": "Abu Road"
+    },
+    {
+        "city_name": "Ajmer"
+    },
+    {
+        "city_name": "Aklera"
+    },
+    {
+        "city_name": "Alwar"
+    },
+    {
+        "city_name": "Amet"
+    },
+    {
+        "city_name": "Antah"
+    },
+    {
+        "city_name": "Anupgarh"
+    },
+    {
+        "city_name": "Asind"
+    },
+    {
+        "city_name": "Bagar"
+    },
+    {
+        "city_name": "Bagru"
+    },
+    {
+        "city_name": "Bahror"
+    },
+    {
+        "city_name": "Bakani"
+    },
+    {
+        "city_name": "Bali"
+    },
+    {
+        "city_name": "Balotra"
+    },
+    {
+        "city_name": "Bandikui"
+    },
+    {
+        "city_name": "Banswara"
+    },
+    {
+        "city_name": "Baran"
+    },
+    {
+        "city_name": "Bari"
+    },
+    {
+        "city_name": "Bari Sadri"
+    },
+    {
+        "city_name": "Barmer"
+    },
+    {
+        "city_name": "Basi"
+    },
+    {
+        "city_name": "Basni Belima"
+    },
+    {
+        "city_name": "Baswa"
+    },
+    {
+        "city_name": "Bayana"
+    },
+    {
+        "city_name": "Beawar"
+    },
+    {
+        "city_name": "Begun"
+    },
+    {
+        "city_name": "Bhadasar"
+    },
+    {
+        "city_name": "Bhadra"
+    },
+    {
+        "city_name": "Bhalariya"
+    },
+    {
+        "city_name": "Bharatpur"
+    },
+    {
+        "city_name": "Bhasawar"
+    },
+    {
+        "city_name": "Bhawani Mandi"
+    },
+    {
+        "city_name": "Bhawri"
+    },
+    {
+        "city_name": "Bhilwara"
+    },
+    {
+        "city_name": "Bhindar"
+    },
+    {
+        "city_name": "Bhinmal"
+    },
+    {
+        "city_name": "Bhiwadi"
+    },
+    {
+        "city_name": "Bijoliya Kalan"
+    },
+    {
+        "city_name": "Bikaner"
+    },
+    {
+        "city_name": "Bilara"
+    },
+    {
+        "city_name": "Bissau"
+    },
+    {
+        "city_name": "Borkhera"
+    },
+    {
+        "city_name": "Budhpura"
+    },
+    {
+        "city_name": "Bundi"
+    },
+    {
+        "city_name": "Chatsu"
+    },
+    {
+        "city_name": "Chechat"
+    },
+    {
+        "city_name": "Chhabra"
+    },
+    {
+        "city_name": "Chhapar"
+    },
+    {
+        "city_name": "Chhipa Barod"
+    },
+    {
+        "city_name": "Chhoti Sadri"
+    },
+    {
+        "city_name": "Chirawa"
+    },
+    {
+        "city_name": "Chittaurgarh"
+    },
+    {
+        "city_name": "Chittorgarh"
+    },
+    {
+        "city_name": "Chomun"
+    },
+    {
+        "city_name": "Churu"
+    },
+    {
+        "city_name": "Daosa"
+    },
+    {
+        "city_name": "Dariba"
+    },
+    {
+        "city_name": "Dausa"
+    },
+    {
+        "city_name": "Deoli"
+    },
+    {
+        "city_name": "Deshnok"
+    },
+    {
+        "city_name": "Devgarh"
+    },
+    {
+        "city_name": "Devli"
+    },
+    {
+        "city_name": "Dhariawad"
+    },
+    {
+        "city_name": "Dhaulpur"
+    },
+    {
+        "city_name": "Dholpur"
+    },
+    {
+        "city_name": "Didwana"
+    },
+    {
+        "city_name": "Dig"
+    },
+    {
+        "city_name": "Dungargarh"
+    },
+    {
+        "city_name": "Dungarpur"
+    },
+    {
+        "city_name": "Falna"
+    },
+    {
+        "city_name": "Fatehnagar"
+    },
+    {
+        "city_name": "Fatehpur"
+    },
+    {
+        "city_name": "Gajsinghpur"
+    },
+    {
+        "city_name": "Galiakot"
+    },
+    {
+        "city_name": "Ganganagar"
+    },
+    {
+        "city_name": "Gangapur"
+    },
+    {
+        "city_name": "Goredi Chancha"
+    },
+    {
+        "city_name": "Gothra"
+    },
+    {
+        "city_name": "Govindgarh"
+    },
+    {
+        "city_name": "Gulabpura"
+    },
+    {
+        "city_name": "Hanumangarh"
+    },
+    {
+        "city_name": "Hindaun"
+    },
+    {
+        "city_name": "Indragarh"
+    },
+    {
+        "city_name": "Jahazpur"
+    },
+    {
+        "city_name": "Jaipur"
+    },
+    {
+        "city_name": "Jaisalmer"
+    },
+    {
+        "city_name": "Jaiselmer"
+    },
+    {
+        "city_name": "Jaitaran"
+    },
+    {
+        "city_name": "Jalore"
+    },
+    {
+        "city_name": "Jhalawar"
+    },
+    {
+        "city_name": "Jhalrapatan"
+    },
+    {
+        "city_name": "Jhunjhunun"
+    },
+    {
+        "city_name": "Jobner"
+    },
+    {
+        "city_name": "Jodhpur"
+    },
+    {
+        "city_name": "Kaithun"
+    },
+    {
+        "city_name": "Kaman"
+    },
+    {
+        "city_name": "Kankroli"
+    },
+    {
+        "city_name": "Kanor"
+    },
+    {
+        "city_name": "Kapasan"
+    },
+    {
+        "city_name": "Kaprain"
+    },
+    {
+        "city_name": "Karanpura"
+    },
+    {
+        "city_name": "Karauli"
+    },
+    {
+        "city_name": "Kekri"
+    },
+    {
+        "city_name": "Keshorai Patan"
+    },
+    {
+        "city_name": "Kesrisinghpur"
+    },
+    {
+        "city_name": "Khairthal"
+    },
+    {
+        "city_name": "Khandela"
+    },
+    {
+        "city_name": "Khanpur"
+    },
+    {
+        "city_name": "Kherli"
+    },
+    {
+        "city_name": "Kherliganj"
+    },
+    {
+        "city_name": "Kherwara Chhaoni"
+    },
+    {
+        "city_name": "Khetri"
+    },
+    {
+        "city_name": "Kiranipura"
+    },
+    {
+        "city_name": "Kishangarh"
+    },
+    {
+        "city_name": "Kishangarh Ranwal"
+    },
+    {
+        "city_name": "Kolvi Rajendrapura"
+    },
+    {
+        "city_name": "Kot Putli"
+    },
+    {
+        "city_name": "Kota"
+    },
+    {
+        "city_name": "Kuchaman"
+    },
+    {
+        "city_name": "Kuchera"
+    },
+    {
+        "city_name": "Kumbhalgarh"
+    },
+    {
+        "city_name": "Kumbhkot"
+    },
+    {
+        "city_name": "Kumher"
+    },
+    {
+        "city_name": "Kushalgarh"
+    },
+    {
+        "city_name": "Lachhmangarh"
+    },
+    {
+        "city_name": "Ladnun"
+    },
+    {
+        "city_name": "Lakheri"
+    },
+    {
+        "city_name": "Lalsot"
+    },
+    {
+        "city_name": "Losal"
+    },
+    {
+        "city_name": "Madanganj"
+    },
+    {
+        "city_name": "Mahu Kalan"
+    },
+    {
+        "city_name": "Mahwa"
+    },
+    {
+        "city_name": "Makrana"
+    },
+    {
+        "city_name": "Malpura"
+    },
+    {
+        "city_name": "Mandal"
+    },
+    {
+        "city_name": "Mandalgarh"
+    },
+    {
+        "city_name": "Mandawar"
+    },
+    {
+        "city_name": "Mandwa"
+    },
+    {
+        "city_name": "Mangrol"
+    },
+    {
+        "city_name": "Manohar Thana"
+    },
+    {
+        "city_name": "Manoharpur"
+    },
+    {
+        "city_name": "Marwar"
+    },
+    {
+        "city_name": "Merta"
+    },
+    {
+        "city_name": "Modak"
+    },
+    {
+        "city_name": "Mount Abu"
+    },
+    {
+        "city_name": "Mukandgarh"
+    },
+    {
+        "city_name": "Mundwa"
+    },
+    {
+        "city_name": "Nadbai"
+    },
+    {
+        "city_name": "Naenwa"
+    },
+    {
+        "city_name": "Nagar"
+    },
+    {
+        "city_name": "Nagaur"
+    },
+    {
+        "city_name": "Napasar"
+    },
+    {
+        "city_name": "Naraina"
+    },
+    {
+        "city_name": "Nasirabad"
+    },
+    {
+        "city_name": "Nathdwara"
+    },
+    {
+        "city_name": "Nawa"
+    },
+    {
+        "city_name": "Nawalgarh"
+    },
+    {
+        "city_name": "Neem Ka Thana"
+    },
+    {
+        "city_name": "Neemrana"
+    },
+    {
+        "city_name": "Newa Talai"
+    },
+    {
+        "city_name": "Nimaj"
+    },
+    {
+        "city_name": "Nimbahera"
+    },
+    {
+        "city_name": "Niwai"
+    },
+    {
+        "city_name": "Nohar"
+    },
+    {
+        "city_name": "Nokha"
+    },
+    {
+        "city_name": "One SGM"
+    },
+    {
+        "city_name": "Padampur"
+    },
+    {
+        "city_name": "Pali"
+    },
+    {
+        "city_name": "Partapur"
+    },
+    {
+        "city_name": "Parvatsar"
+    },
+    {
+        "city_name": "Pasoond"
+    },
+    {
+        "city_name": "Phalna"
+    },
+    {
+        "city_name": "Phalodi"
+    },
+    {
+        "city_name": "Phulera"
+    },
+    {
+        "city_name": "Pilani"
+    },
+    {
+        "city_name": "Pilibanga"
+    },
+    {
+        "city_name": "Pindwara"
+    },
+    {
+        "city_name": "Pipalia Kalan"
+    },
+    {
+        "city_name": "Pipar"
+    },
+    {
+        "city_name": "Pirawa"
+    },
+    {
+        "city_name": "Pokaran"
+    },
+    {
+        "city_name": "Pratapgarh"
+    },
+    {
+        "city_name": "Pushkar"
+    },
+    {
+        "city_name": "Raipur"
+    },
+    {
+        "city_name": "Raisinghnagar"
+    },
+    {
+        "city_name": "Rajakhera"
+    },
+    {
+        "city_name": "Rajaldesar"
+    },
+    {
+        "city_name": "Rajgarh"
+    },
+    {
+        "city_name": "Rajsamand"
+    },
+    {
+        "city_name": "Ramganj Mandi"
+    },
+    {
+        "city_name": "Ramgarh"
+    },
+    {
+        "city_name": "Rani"
+    },
+    {
+        "city_name": "Raniwara"
+    },
+    {
+        "city_name": "Ratan Nagar"
+    },
+    {
+        "city_name": "Ratangarh"
+    },
+    {
+        "city_name": "Rawatbhata"
+    },
+    {
+        "city_name": "Rawatsar"
+    },
+    {
+        "city_name": "Rikhabdev"
+    },
+    {
+        "city_name": "Ringas"
+    },
+    {
+        "city_name": "Sadri"
+    },
+    {
+        "city_name": "Sadulshahar"
+    },
+    {
+        "city_name": "Sagwara"
+    },
+    {
+        "city_name": "Salumbar"
+    },
+    {
+        "city_name": "Sambhar"
+    },
+    {
+        "city_name": "Samdari"
+    },
+    {
+        "city_name": "Sanchor"
+    },
+    {
+        "city_name": "Sangariya"
+    },
+    {
+        "city_name": "Sangod"
+    },
+    {
+        "city_name": "Sardarshahr"
+    },
+    {
+        "city_name": "Sarwar"
+    },
+    {
+        "city_name": "Satal Kheri"
+    },
+    {
+        "city_name": "Sawai Madhopur"
+    },
+    {
+        "city_name": "Sewan Kalan"
+    },
+    {
+        "city_name": "Shahpura"
+    },
+    {
+        "city_name": "Sheoganj"
+    },
+    {
+        "city_name": "Sikar"
+    },
+    {
+        "city_name": "Sirohi"
+    },
+    {
+        "city_name": "Siwana"
+    },
+    {
+        "city_name": "Sogariya"
+    },
+    {
+        "city_name": "Sojat"
+    },
+    {
+        "city_name": "Sojat Road"
+    },
+    {
+        "city_name": "Sri Madhopur"
+    },
+    {
+        "city_name": "Sriganganagar"
+    },
+    {
+        "city_name": "Sujangarh"
+    },
+    {
+        "city_name": "Suket"
+    },
+    {
+        "city_name": "Sumerpur"
+    },
+    {
+        "city_name": "Sunel"
+    },
+    {
+        "city_name": "Surajgarh"
+    },
+    {
+        "city_name": "Suratgarh"
+    },
+    {
+        "city_name": "Swaroopganj"
+    },
+    {
+        "city_name": "Takhatgarh"
+    },
+    {
+        "city_name": "Taranagar"
+    },
+    {
+        "city_name": "Three STR"
+    },
+    {
+        "city_name": "Tijara"
+    },
+    {
+        "city_name": "Toda Bhim"
+    },
+    {
+        "city_name": "Toda Raisingh"
+    },
+    {
+        "city_name": "Todra"
+    },
+    {
+        "city_name": "Tonk"
+    },
+    {
+        "city_name": "Udaipur"
+    },
+    {
+        "city_name": "Udpura"
+    },
+    {
+        "city_name": "Uniara"
+    },
+    {
+        "city_name": "Vanasthali"
+    },
+    {
+        "city_name": "Vidyavihar"
+    },
+    {
+        "city_name": "Vijainagar"
+    },
+    {
+        "city_name": "Viratnagar"
+    },
+    {
+        "city_name": "Wer"
+    }
+]

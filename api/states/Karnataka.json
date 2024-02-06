@@ -1,0 +1,977 @@
+[
+    {
+        "city_name": "Adityanagar"
+    },
+    {
+        "city_name": "Adityapatna"
+    },
+    {
+        "city_name": "Afzalpur"
+    },
+    {
+        "city_name": "Ajjampur"
+    },
+    {
+        "city_name": "Aland"
+    },
+    {
+        "city_name": "Almatti Sitimani"
+    },
+    {
+        "city_name": "Alnavar"
+    },
+    {
+        "city_name": "Alur"
+    },
+    {
+        "city_name": "Ambikanagara"
+    },
+    {
+        "city_name": "Anekal"
+    },
+    {
+        "city_name": "Ankola"
+    },
+    {
+        "city_name": "Annigeri"
+    },
+    {
+        "city_name": "Arkalgud"
+    },
+    {
+        "city_name": "Arsikere"
+    },
+    {
+        "city_name": "Athni"
+    },
+    {
+        "city_name": "Aurad"
+    },
+    {
+        "city_name": "Badagavettu"
+    },
+    {
+        "city_name": "Badami"
+    },
+    {
+        "city_name": "Bagalkot"
+    },
+    {
+        "city_name": "Bagepalli"
+    },
+    {
+        "city_name": "Bailhongal"
+    },
+    {
+        "city_name": "Baindur"
+    },
+    {
+        "city_name": "Bajala"
+    },
+    {
+        "city_name": "Bajpe"
+    },
+    {
+        "city_name": "Banavar"
+    },
+    {
+        "city_name": "Bangarapet"
+    },
+    {
+        "city_name": "Bankapura"
+    },
+    {
+        "city_name": "Bannur"
+    },
+    {
+        "city_name": "Bantwal"
+    },
+    {
+        "city_name": "Basavakalyan"
+    },
+    {
+        "city_name": "Basavana Bagevadi"
+    },
+    {
+        "city_name": "Belagula"
+    },
+    {
+        "city_name": "Belakavadiq"
+    },
+    {
+        "city_name": "Belgaum"
+    },
+    {
+        "city_name": "Belgaum Cantonment"
+    },
+    {
+        "city_name": "Bellary"
+    },
+    {
+        "city_name": "Belluru"
+    },
+    {
+        "city_name": "Beltangadi"
+    },
+    {
+        "city_name": "Belur"
+    },
+    {
+        "city_name": "Belvata"
+    },
+    {
+        "city_name": "Bengaluru"
+    },
+    {
+        "city_name": "Bhadravati"
+    },
+    {
+        "city_name": "Bhalki"
+    },
+    {
+        "city_name": "Bhatkal"
+    },
+    {
+        "city_name": "Bhimarayanagudi"
+    },
+    {
+        "city_name": "Bhogadi"
+    },
+    {
+        "city_name": "Bidar"
+    },
+    {
+        "city_name": "Bijapur"
+    },
+    {
+        "city_name": "Bilgi"
+    },
+    {
+        "city_name": "Birur"
+    },
+    {
+        "city_name": "Bommanahalli"
+    },
+    {
+        "city_name": "Bommasandra"
+    },
+    {
+        "city_name": "Byadgi"
+    },
+    {
+        "city_name": "Byatarayanapura"
+    },
+    {
+        "city_name": "Chakranagar Colony"
+    },
+    {
+        "city_name": "Challakere"
+    },
+    {
+        "city_name": "Chamrajnagar"
+    },
+    {
+        "city_name": "Chamundi Betta"
+    },
+    {
+        "city_name": "Channagiri"
+    },
+    {
+        "city_name": "Channapatna"
+    },
+    {
+        "city_name": "Channarayapatna"
+    },
+    {
+        "city_name": "Chickballapur"
+    },
+    {
+        "city_name": "Chik Ballapur"
+    },
+    {
+        "city_name": "Chikkaballapur"
+    },
+    {
+        "city_name": "Chikmagalur"
+    },
+    {
+        "city_name": "Chiknayakanhalli"
+    },
+    {
+        "city_name": "Chikodi"
+    },
+    {
+        "city_name": "Chincholi"
+    },
+    {
+        "city_name": "Chintamani"
+    },
+    {
+        "city_name": "Chitaguppa"
+    },
+    {
+        "city_name": "Chitapur"
+    },
+    {
+        "city_name": "Chitradurga"
+    },
+    {
+        "city_name": "Coorg"
+    },
+    {
+        "city_name": "Dandeli"
+    },
+    {
+        "city_name": "Dargajogihalli"
+    },
+    {
+        "city_name": "Dasarahalli"
+    },
+    {
+        "city_name": "Davangere"
+    },
+    {
+        "city_name": "Devadurga"
+    },
+    {
+        "city_name": "Devagiri"
+    },
+    {
+        "city_name": "Devanhalli"
+    },
+    {
+        "city_name": "Dharwar"
+    },
+    {
+        "city_name": "Dhupdal"
+    },
+    {
+        "city_name": "Dod Ballapur"
+    },
+    {
+        "city_name": "Donimalai"
+    },
+    {
+        "city_name": "Gadag"
+    },
+    {
+        "city_name": "Gajendragarh"
+    },
+    {
+        "city_name": "Ganeshgudi"
+    },
+    {
+        "city_name": "Gangawati"
+    },
+    {
+        "city_name": "Gangoli"
+    },
+    {
+        "city_name": "Gauribidanur"
+    },
+    {
+        "city_name": "Gokak"
+    },
+    {
+        "city_name": "Gokak Falls"
+    },
+    {
+        "city_name": "Gonikoppal"
+    },
+    {
+        "city_name": "Gorur"
+    },
+    {
+        "city_name": "Gottikere"
+    },
+    {
+        "city_name": "Gubbi"
+    },
+    {
+        "city_name": "Gudibanda"
+    },
+    {
+        "city_name": "Gulbarga"
+    },
+    {
+        "city_name": "Guledgudda"
+    },
+    {
+        "city_name": "Gundlupet"
+    },
+    {
+        "city_name": "Gurmatkal"
+    },
+    {
+        "city_name": "Haliyal"
+    },
+    {
+        "city_name": "Hangal"
+    },
+    {
+        "city_name": "Harihar"
+    },
+    {
+        "city_name": "Harpanahalli"
+    },
+    {
+        "city_name": "Hassan"
+    },
+    {
+        "city_name": "Hatti"
+    },
+    {
+        "city_name": "Hatti Gold Mines"
+    },
+    {
+        "city_name": "Haveri"
+    },
+    {
+        "city_name": "Hebbagodi"
+    },
+    {
+        "city_name": "Hebbalu"
+    },
+    {
+        "city_name": "Hebri"
+    },
+    {
+        "city_name": "Heggadadevanakote"
+    },
+    {
+        "city_name": "Herohalli"
+    },
+    {
+        "city_name": "Hidkal"
+    },
+    {
+        "city_name": "Hindalgi"
+    },
+    {
+        "city_name": "Hirekerur"
+    },
+    {
+        "city_name": "Hiriyur"
+    },
+    {
+        "city_name": "Holalkere"
+    },
+    {
+        "city_name": "Hole Narsipur"
+    },
+    {
+        "city_name": "Homnabad"
+    },
+    {
+        "city_name": "Honavar"
+    },
+    {
+        "city_name": "Honnali"
+    },
+    {
+        "city_name": "Hosakote"
+    },
+    {
+        "city_name": "Hosanagara"
+    },
+    {
+        "city_name": "Hosangadi"
+    },
+    {
+        "city_name": "Hosdurga"
+    },
+    {
+        "city_name": "Hoskote"
+    },
+    {
+        "city_name": "Hospet"
+    },
+    {
+        "city_name": "Hubli"
+    },
+    {
+        "city_name": "Hukeri"
+    },
+    {
+        "city_name": "Hunasagi"
+    },
+    {
+        "city_name": "Hunasamaranahalli"
+    },
+    {
+        "city_name": "Hungund"
+    },
+    {
+        "city_name": "Hunsur"
+    },
+    {
+        "city_name": "Huvina Hadagalli"
+    },
+    {
+        "city_name": "Ilkal"
+    },
+    {
+        "city_name": "Indi"
+    },
+    {
+        "city_name": "Jagalur"
+    },
+    {
+        "city_name": "Jamkhandi"
+    },
+    {
+        "city_name": "Jevargi"
+    },
+    {
+        "city_name": "Jog Falls"
+    },
+    {
+        "city_name": "Kabini Colony"
+    },
+    {
+        "city_name": "Kadur"
+    },
+    {
+        "city_name": "Kalghatgi"
+    },
+    {
+        "city_name": "Kamalapuram"
+    },
+    {
+        "city_name": "Kampli"
+    },
+    {
+        "city_name": "Kanakapura"
+    },
+    {
+        "city_name": "Kangrali BK"
+    },
+    {
+        "city_name": "Kangrali KH"
+    },
+    {
+        "city_name": "Kannur"
+    },
+    {
+        "city_name": "Karkala"
+    },
+    {
+        "city_name": "Karwar"
+    },
+    {
+        "city_name": "Kemminja"
+    },
+    {
+        "city_name": "Kengeri"
+    },
+    {
+        "city_name": "Kerur"
+    },
+    {
+        "city_name": "Khanapur"
+    },
+    {
+        "city_name": "Kodigenahalli"
+    },
+    {
+        "city_name": "Kodiyal"
+    },
+    {
+        "city_name": "Kodlipet"
+    },
+    {
+        "city_name": "Kolar"
+    },
+    {
+        "city_name": "Kollegal"
+    },
+    {
+        "city_name": "Konanakunte"
+    },
+    {
+        "city_name": "Konanur"
+    },
+    {
+        "city_name": "Konnur"
+    },
+    {
+        "city_name": "Koppa"
+    },
+    {
+        "city_name": "Koppal"
+    },
+    {
+        "city_name": "Koratagere"
+    },
+    {
+        "city_name": "Kotekara"
+    },
+    {
+        "city_name": "Kothnur"
+    },
+    {
+        "city_name": "Kotturu"
+    },
+    {
+        "city_name": "Krishnapura"
+    },
+    {
+        "city_name": "Krishnarajanagar"
+    },
+    {
+        "city_name": "Krishnarajapura"
+    },
+    {
+        "city_name": "Krishnarajasagara"
+    },
+    {
+        "city_name": "Krishnarajpet"
+    },
+    {
+        "city_name": "Kudchi"
+    },
+    {
+        "city_name": "Kudligi"
+    },
+    {
+        "city_name": "Kudremukh"
+    },
+    {
+        "city_name": "Kumsi"
+    },
+    {
+        "city_name": "Kumta"
+    },
+    {
+        "city_name": "Kundapura"
+    },
+    {
+        "city_name": "Kundgol"
+    },
+    {
+        "city_name": "Kunigal"
+    },
+    {
+        "city_name": "Kurgunta"
+    },
+    {
+        "city_name": "Kushalnagar"
+    },
+    {
+        "city_name": "Kushtagi"
+    },
+    {
+        "city_name": "Kyathanahalli"
+    },
+    {
+        "city_name": "Lakshmeshwar"
+    },
+    {
+        "city_name": "Lingsugur"
+    },
+    {
+        "city_name": "Londa"
+    },
+    {
+        "city_name": "Maddur"
+    },
+    {
+        "city_name": "Madhugiri"
+    },
+    {
+        "city_name": "Madikeri"
+    },
+    {
+        "city_name": "Magadi"
+    },
+    {
+        "city_name": "Magod Falls"
+    },
+    {
+        "city_name": "Mahadeswara Hills"
+    },
+    {
+        "city_name": "Mahadevapura"
+    },
+    {
+        "city_name": "Mahalingpur"
+    },
+    {
+        "city_name": "Maisuru"
+    },
+    {
+        "city_name": "Maisuru Cantonment"
+    },
+    {
+        "city_name": "Malavalli"
+    },
+    {
+        "city_name": "Mallar"
+    },
+    {
+        "city_name": "Malpe"
+    },
+    {
+        "city_name": "Malur"
+    },
+    {
+        "city_name": "Manchenahalli"
+    },
+    {
+        "city_name": "Mandya"
+    },
+    {
+        "city_name": "Mangalore"
+    },
+    {
+        "city_name": "Mangaluru"
+    },
+    {
+        "city_name": "Manipal"
+    },
+    {
+        "city_name": "Manvi"
+    },
+    {
+        "city_name": "Maski"
+    },
+    {
+        "city_name": "Mastikatte Colony"
+    },
+    {
+        "city_name": "Mayakonda"
+    },
+    {
+        "city_name": "Melukote"
+    },
+    {
+        "city_name": "Molakalmuru"
+    },
+    {
+        "city_name": "Mudalgi"
+    },
+    {
+        "city_name": "Mudbidri"
+    },
+    {
+        "city_name": "Muddebihal"
+    },
+    {
+        "city_name": "Mudgal"
+    },
+    {
+        "city_name": "Mudhol"
+    },
+    {
+        "city_name": "Mudigere"
+    },
+    {
+        "city_name": "Mudushedde"
+    },
+    {
+        "city_name": "Mulbagal"
+    },
+    {
+        "city_name": "Mulgund"
+    },
+    {
+        "city_name": "Mulki"
+    },
+    {
+        "city_name": "Mulur"
+    },
+    {
+        "city_name": "Mundargi"
+    },
+    {
+        "city_name": "Mundgod"
+    },
+    {
+        "city_name": "Munirabad"
+    },
+    {
+        "city_name": "Munnur"
+    },
+    {
+        "city_name": "Murudeshwara"
+    },
+    {
+        "city_name": "Mysore"
+    },
+    {
+        "city_name": "Nagamangala"
+    },
+    {
+        "city_name": "Nanjangud"
+    },
+    {
+        "city_name": "Naragund"
+    },
+    {
+        "city_name": "Narasimharajapura"
+    },
+    {
+        "city_name": "Naravi"
+    },
+    {
+        "city_name": "Narayanpur"
+    },
+    {
+        "city_name": "Naregal"
+    },
+    {
+        "city_name": "Navalgund"
+    },
+    {
+        "city_name": "Nelmangala"
+    },
+    {
+        "city_name": "Nipani"
+    },
+    {
+        "city_name": "Nitte"
+    },
+    {
+        "city_name": "Nyamati"
+    },
+    {
+        "city_name": "Padu"
+    },
+    {
+        "city_name": "Pandavapura"
+    },
+    {
+        "city_name": "Pattanagere"
+    },
+    {
+        "city_name": "Pavagada"
+    },
+    {
+        "city_name": "Piriyapatna"
+    },
+    {
+        "city_name": "Ponnampet"
+    },
+    {
+        "city_name": "Puttur"
+    },
+    {
+        "city_name": "Rabkavi"
+    },
+    {
+        "city_name": "Raichur"
+    },
+    {
+        "city_name": "Ramanagaram"
+    },
+    {
+        "city_name": "Ramdurg"
+    },
+    {
+        "city_name": "Ranibennur"
+    },
+    {
+        "city_name": "Raybag"
+    },
+    {
+        "city_name": "Robertsonpet"
+    },
+    {
+        "city_name": "Ron"
+    },
+    {
+        "city_name": "Sadalgi"
+    },
+    {
+        "city_name": "Sagar"
+    },
+    {
+        "city_name": "Sakleshpur"
+    },
+    {
+        "city_name": "Saligram"
+    },
+    {
+        "city_name": "Sandur"
+    },
+    {
+        "city_name": "Sanivarsante"
+    },
+    {
+        "city_name": "Sankeshwar"
+    },
+    {
+        "city_name": "Sargur"
+    },
+    {
+        "city_name": "Sathyamangala"
+    },
+    {
+        "city_name": "Saundatti Yellamma"
+    },
+    {
+        "city_name": "Savanur"
+    },
+    {
+        "city_name": "Sedam"
+    },
+    {
+        "city_name": "Shahabad"
+    },
+    {
+        "city_name": "Shahabad A.C.C."
+    },
+    {
+        "city_name": "Shahapur"
+    },
+    {
+        "city_name": "Shahpur"
+    },
+    {
+        "city_name": "Shaktinagar"
+    },
+    {
+        "city_name": "Shiggaon"
+    },
+    {
+        "city_name": "Shikarpur"
+    },
+    {
+        "city_name": "Shimoga"
+    },
+    {
+        "city_name": "Shirhatti"
+    },
+    {
+        "city_name": "Shorapur"
+    },
+    {
+        "city_name": "Shravanabelagola"
+    },
+    {
+        "city_name": "Shrirangapattana"
+    },
+    {
+        "city_name": "Siddapur"
+    },
+    {
+        "city_name": "Sidlaghatta"
+    },
+    {
+        "city_name": "Sindgi"
+    },
+    {
+        "city_name": "Sindhnur"
+    },
+    {
+        "city_name": "Sira"
+    },
+    {
+        "city_name": "Sirakoppa"
+    },
+    {
+        "city_name": "Sirsi"
+    },
+    {
+        "city_name": "Siruguppa"
+    },
+    {
+        "city_name": "Someshwar"
+    },
+    {
+        "city_name": "Somvarpet"
+    },
+    {
+        "city_name": "Sorab"
+    },
+    {
+        "city_name": "Sringeri"
+    },
+    {
+        "city_name": "Srinivaspur"
+    },
+    {
+        "city_name": "Sulya"
+    },
+    {
+        "city_name": "Suntikopa"
+    },
+    {
+        "city_name": "Talikota"
+    },
+    {
+        "city_name": "Tarikera"
+    },
+    {
+        "city_name": "Tekkalakota"
+    },
+    {
+        "city_name": "Terdal"
+    },
+    {
+        "city_name": "Thokur"
+    },
+    {
+        "city_name": "Thumbe"
+    },
+    {
+        "city_name": "Tiptur"
+    },
+    {
+        "city_name": "Tirthahalli"
+    },
+    {
+        "city_name": "Tirumakudal Narsipur"
+    },
+    {
+        "city_name": "Tonse"
+    },
+    {
+        "city_name": "Tumkur"
+    },
+    {
+        "city_name": "Turuvekere"
+    },
+    {
+        "city_name": "Udupi"
+    },
+    {
+        "city_name": "Ullal"
+    },
+    {
+        "city_name": "Uttarahalli"
+    },
+    {
+        "city_name": "Venkatapura"
+    },
+    {
+        "city_name": "Vijayapura"
+    },
+    {
+        "city_name": "Virarajendrapet"
+    },
+    {
+        "city_name": "Wadi"
+    },
+    {
+        "city_name": "Wadi A.C.C."
+    },
+    {
+        "city_name": "Yadgir"
+    },
+    {
+        "city_name": "Yelahanka"
+    },
+    {
+        "city_name": "Yelandur"
+    },
+    {
+        "city_name": "Yelbarga"
+    },
+    {
+        "city_name": "Yellapur"
+    },
+    {
+        "city_name": "Yenagudde"
+    }
+]

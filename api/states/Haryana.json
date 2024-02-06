@@ -1,0 +1,329 @@
+[
+    {
+        "city_name": "Ambala"
+    },
+    {
+        "city_name": "Ambala Cantt"
+    },
+    {
+        "city_name": "Asan Khurd"
+    },
+    {
+        "city_name": "Asandh"
+    },
+    {
+        "city_name": "Ateli"
+    },
+    {
+        "city_name": "Babiyal"
+    },
+    {
+        "city_name": "Bahadurgarh"
+    },
+    {
+        "city_name": "Ballabgarh"
+    },
+    {
+        "city_name": "Barwala"
+    },
+    {
+        "city_name": "Bawal"
+    },
+    {
+        "city_name": "Bawani Khera"
+    },
+    {
+        "city_name": "Beri"
+    },
+    {
+        "city_name": "Bhiwani"
+    },
+    {
+        "city_name": "Bilaspur"
+    },
+    {
+        "city_name": "Buria"
+    },
+    {
+        "city_name": "Charkhi Dadri"
+    },
+    {
+        "city_name": "Chhachhrauli"
+    },
+    {
+        "city_name": "Chita"
+    },
+    {
+        "city_name": "Dabwali"
+    },
+    {
+        "city_name": "Dharuhera"
+    },
+    {
+        "city_name": "Dundahera"
+    },
+    {
+        "city_name": "Ellenabad"
+    },
+    {
+        "city_name": "Farakhpur"
+    },
+    {
+        "city_name": "Faridabad"
+    },
+    {
+        "city_name": "Farrukhnagar"
+    },
+    {
+        "city_name": "Fatehabad"
+    },
+    {
+        "city_name": "Firozpur Jhirka"
+    },
+    {
+        "city_name": "Gannaur"
+    },
+    {
+        "city_name": "Ghraunda"
+    },
+    {
+        "city_name": "Gohana"
+    },
+    {
+        "city_name": "Gurgaon"
+    },
+    {
+        "city_name": "Haileymandi"
+    },
+    {
+        "city_name": "Hansi"
+    },
+    {
+        "city_name": "Hasanpur"
+    },
+    {
+        "city_name": "Hathin"
+    },
+    {
+        "city_name": "Hisar"
+    },
+    {
+        "city_name": "Hissar"
+    },
+    {
+        "city_name": "Hodal"
+    },
+    {
+        "city_name": "Indri"
+    },
+    {
+        "city_name": "Jagadhri"
+    },
+    {
+        "city_name": "Jakhal Mandi"
+    },
+    {
+        "city_name": "Jhajjar"
+    },
+    {
+        "city_name": "Jind"
+    },
+    {
+        "city_name": "Julana"
+    },
+    {
+        "city_name": "Kaithal"
+    },
+    {
+        "city_name": "Kalanur"
+    },
+    {
+        "city_name": "Kalanwali"
+    },
+    {
+        "city_name": "Kalayat"
+    },
+    {
+        "city_name": "Kalka"
+    },
+    {
+        "city_name": "Kanina"
+    },
+    {
+        "city_name": "Kansepur"
+    },
+    {
+        "city_name": "Kardhan"
+    },
+    {
+        "city_name": "Karnal"
+    },
+    {
+        "city_name": "Kharkhoda"
+    },
+    {
+        "city_name": "Kheri Sampla"
+    },
+    {
+        "city_name": "Kundli"
+    },
+    {
+        "city_name": "Kurukshetra"
+    },
+    {
+        "city_name": "Ladrawan"
+    },
+    {
+        "city_name": "Ladwa"
+    },
+    {
+        "city_name": "Loharu"
+    },
+    {
+        "city_name": "Maham"
+    },
+    {
+        "city_name": "Mahendragarh"
+    },
+    {
+        "city_name": "Mustafabad"
+    },
+    {
+        "city_name": "Nagai Chaudhry"
+    },
+    {
+        "city_name": "Narayangarh"
+    },
+    {
+        "city_name": "Narnaul"
+    },
+    {
+        "city_name": "Narnaund"
+    },
+    {
+        "city_name": "Narwana"
+    },
+    {
+        "city_name": "Nilokheri"
+    },
+    {
+        "city_name": "Nuh"
+    },
+    {
+        "city_name": "Palwal"
+    },
+    {
+        "city_name": "Panchkula"
+    },
+    {
+        "city_name": "Panipat"
+    },
+    {
+        "city_name": "Panipat Taraf Ansar"
+    },
+    {
+        "city_name": "Panipat Taraf Makhdum Zadgan"
+    },
+    {
+        "city_name": "Panipat Taraf Rajputan"
+    },
+    {
+        "city_name": "Pehowa"
+    },
+    {
+        "city_name": "Pinjaur"
+    },
+    {
+        "city_name": "Punahana"
+    },
+    {
+        "city_name": "Pundri"
+    },
+    {
+        "city_name": "Radaur"
+    },
+    {
+        "city_name": "Raipur Rani"
+    },
+    {
+        "city_name": "Rania"
+    },
+    {
+        "city_name": "Ratiya"
+    },
+    {
+        "city_name": "Rewari"
+    },
+    {
+        "city_name": "Rohtak"
+    },
+    {
+        "city_name": "Ropar"
+    },
+    {
+        "city_name": "Sadauri"
+    },
+    {
+        "city_name": "Safidon"
+    },
+    {
+        "city_name": "Samalkha"
+    },
+    {
+        "city_name": "Sankhol"
+    },
+    {
+        "city_name": "Sasauli"
+    },
+    {
+        "city_name": "Shahabad"
+    },
+    {
+        "city_name": "Sirsa"
+    },
+    {
+        "city_name": "Siwani"
+    },
+    {
+        "city_name": "Sohna"
+    },
+    {
+        "city_name": "Sonipat"
+    },
+    {
+        "city_name": "Sukhrali"
+    },
+    {
+        "city_name": "Taoru"
+    },
+    {
+        "city_name": "Taraori"
+    },
+    {
+        "city_name": "Tauru"
+    },
+    {
+        "city_name": "Thanesar"
+    },
+    {
+        "city_name": "Tilpat"
+    },
+    {
+        "city_name": "Tohana"
+    },
+    {
+        "city_name": "Tosham"
+    },
+    {
+        "city_name": "Uchana"
+    },
+    {
+        "city_name": "Uklana Mandi"
+    },
+    {
+        "city_name": "Uncha Siwana"
+    },
+    {
+        "city_name": "Yamunanagar"
+    }
+]

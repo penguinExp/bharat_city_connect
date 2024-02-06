@@ -1,0 +1,461 @@
+[
+    {
+        "city_name": "Anandapur"
+    },
+    {
+        "city_name": "Angul"
+    },
+    {
+        "city_name": "Aska"
+    },
+    {
+        "city_name": "Athgarh"
+    },
+    {
+        "city_name": "Athmallik"
+    },
+    {
+        "city_name": "Balagoda"
+    },
+    {
+        "city_name": "Balangir"
+    },
+    {
+        "city_name": "Balasore"
+    },
+    {
+        "city_name": "Baleshwar"
+    },
+    {
+        "city_name": "Balimeta"
+    },
+    {
+        "city_name": "Balugaon"
+    },
+    {
+        "city_name": "Banapur"
+    },
+    {
+        "city_name": "Bangura"
+    },
+    {
+        "city_name": "Banki"
+    },
+    {
+        "city_name": "Banposh"
+    },
+    {
+        "city_name": "Barbil"
+    },
+    {
+        "city_name": "Bargarh"
+    },
+    {
+        "city_name": "Baripada"
+    },
+    {
+        "city_name": "Barpali"
+    },
+    {
+        "city_name": "Basudebpur"
+    },
+    {
+        "city_name": "Baudh"
+    },
+    {
+        "city_name": "Belagachhia"
+    },
+    {
+        "city_name": "Belaguntha"
+    },
+    {
+        "city_name": "Belpahar"
+    },
+    {
+        "city_name": "Berhampur"
+    },
+    {
+        "city_name": "Bhadrak"
+    },
+    {
+        "city_name": "Bhanjanagar"
+    },
+    {
+        "city_name": "Bhawanipatna"
+    },
+    {
+        "city_name": "Bhuban"
+    },
+    {
+        "city_name": "Bhubaneswar"
+    },
+    {
+        "city_name": "Binika"
+    },
+    {
+        "city_name": "Birmitrapur"
+    },
+    {
+        "city_name": "Bishama Katek"
+    },
+    {
+        "city_name": "Bolangir"
+    },
+    {
+        "city_name": "Brahmapur"
+    },
+    {
+        "city_name": "Brajrajnagar"
+    },
+    {
+        "city_name": "Buguda"
+    },
+    {
+        "city_name": "Burla"
+    },
+    {
+        "city_name": "Byasanagar"
+    },
+    {
+        "city_name": "Champua"
+    },
+    {
+        "city_name": "Chandapur"
+    },
+    {
+        "city_name": "Chandbali"
+    },
+    {
+        "city_name": "Chandili"
+    },
+    {
+        "city_name": "Charibatia"
+    },
+    {
+        "city_name": "Chatrapur"
+    },
+    {
+        "city_name": "Chikitigarh"
+    },
+    {
+        "city_name": "Chitrakonda"
+    },
+    {
+        "city_name": "Choudwar"
+    },
+    {
+        "city_name": "Cuttack"
+    },
+    {
+        "city_name": "Dadhapatna"
+    },
+    {
+        "city_name": "Daitari"
+    },
+    {
+        "city_name": "Damanjodi"
+    },
+    {
+        "city_name": "Deogarh"
+    },
+    {
+        "city_name": "Deracolliery"
+    },
+    {
+        "city_name": "Dhamanagar"
+    },
+    {
+        "city_name": "Dhenkanal"
+    },
+    {
+        "city_name": "Digapahandi"
+    },
+    {
+        "city_name": "Dungamal"
+    },
+    {
+        "city_name": "Fertilizer Corporation of Indi"
+    },
+    {
+        "city_name": "Ganjam"
+    },
+    {
+        "city_name": "Ghantapada"
+    },
+    {
+        "city_name": "Gopalpur"
+    },
+    {
+        "city_name": "Gudari"
+    },
+    {
+        "city_name": "Gunupur"
+    },
+    {
+        "city_name": "Hatibandha"
+    },
+    {
+        "city_name": "Hinjilikatu"
+    },
+    {
+        "city_name": "Hirakud"
+    },
+    {
+        "city_name": "Jagatsinghapur"
+    },
+    {
+        "city_name": "Jajpur"
+    },
+    {
+        "city_name": "Jalda"
+    },
+    {
+        "city_name": "Jaleswar"
+    },
+    {
+        "city_name": "Jatni"
+    },
+    {
+        "city_name": "Jaypur"
+    },
+    {
+        "city_name": "Jeypore"
+    },
+    {
+        "city_name": "Jharsuguda"
+    },
+    {
+        "city_name": "Jhumpura"
+    },
+    {
+        "city_name": "Joda"
+    },
+    {
+        "city_name": "Junagarh"
+    },
+    {
+        "city_name": "Kamakhyanagar"
+    },
+    {
+        "city_name": "Kantabanji"
+    },
+    {
+        "city_name": "Kantilo"
+    },
+    {
+        "city_name": "Karanja"
+    },
+    {
+        "city_name": "Kashinagara"
+    },
+    {
+        "city_name": "Kataka"
+    },
+    {
+        "city_name": "Kavisuryanagar"
+    },
+    {
+        "city_name": "Kendrapara"
+    },
+    {
+        "city_name": "Kendujhar"
+    },
+    {
+        "city_name": "Keonjhar"
+    },
+    {
+        "city_name": "Kesinga"
+    },
+    {
+        "city_name": "Khaliapali"
+    },
+    {
+        "city_name": "Khalikote"
+    },
+    {
+        "city_name": "Khandaparha"
+    },
+    {
+        "city_name": "Kharhial"
+    },
+    {
+        "city_name": "Kharhial Road"
+    },
+    {
+        "city_name": "Khatiguda"
+    },
+    {
+        "city_name": "Khurda"
+    },
+    {
+        "city_name": "Kochinda"
+    },
+    {
+        "city_name": "Kodala"
+    },
+    {
+        "city_name": "Konark"
+    },
+    {
+        "city_name": "Koraput"
+    },
+    {
+        "city_name": "Kotaparh"
+    },
+    {
+        "city_name": "Lanjigarh"
+    },
+    {
+        "city_name": "Lattikata"
+    },
+    {
+        "city_name": "Makundapur"
+    },
+    {
+        "city_name": "Malkangiri"
+    },
+    {
+        "city_name": "Mukhiguda"
+    },
+    {
+        "city_name": "Nabarangpur"
+    },
+    {
+        "city_name": "Nalco"
+    },
+    {
+        "city_name": "Naurangapur"
+    },
+    {
+        "city_name": "Nayagarh"
+    },
+    {
+        "city_name": "Nilagiri"
+    },
+    {
+        "city_name": "Nimaparha"
+    },
+    {
+        "city_name": "Nuapada"
+    },
+    {
+        "city_name": "Nuapatna"
+    },
+    {
+        "city_name": "OCL Industrialship"
+    },
+    {
+        "city_name": "Padampur"
+    },
+    {
+        "city_name": "Paradip"
+    },
+    {
+        "city_name": "Paradwip"
+    },
+    {
+        "city_name": "Parlakimidi"
+    },
+    {
+        "city_name": "Patamundai"
+    },
+    {
+        "city_name": "Patnagarh"
+    },
+    {
+        "city_name": "Phulabani"
+    },
+    {
+        "city_name": "Pipili"
+    },
+    {
+        "city_name": "Polasara"
+    },
+    {
+        "city_name": "Pratapsasan"
+    },
+    {
+        "city_name": "Puri"
+    },
+    {
+        "city_name": "Purushottampur"
+    },
+    {
+        "city_name": "Rairangpur"
+    },
+    {
+        "city_name": "Raj Gangpur"
+    },
+    {
+        "city_name": "Rambha"
+    },
+    {
+        "city_name": "Raurkela"
+    },
+    {
+        "city_name": "Raurkela Civil Township"
+    },
+    {
+        "city_name": "Rayagada"
+    },
+    {
+        "city_name": "Redhakhol"
+    },
+    {
+        "city_name": "Remuna"
+    },
+    {
+        "city_name": "Rengali"
+    },
+    {
+        "city_name": "Rourkela"
+    },
+    {
+        "city_name": "Sambalpur"
+    },
+    {
+        "city_name": "Sinapali"
+    },
+    {
+        "city_name": "Sonepur"
+    },
+    {
+        "city_name": "Sorada"
+    },
+    {
+        "city_name": "Soro"
+    },
+    {
+        "city_name": "Sunabeda"
+    },
+    {
+        "city_name": "Sundargarh"
+    },
+    {
+        "city_name": "Talcher"
+    },
+    {
+        "city_name": "Talcher Thermal Power Station "
+    },
+    {
+        "city_name": "Tarabha"
+    },
+    {
+        "city_name": "Tensa"
+    },
+    {
+        "city_name": "Titlagarh"
+    },
+    {
+        "city_name": "Udala"
+    },
+    {
+        "city_name": "Udayagiri"
+    },
+    {
+        "city_name": "Umarkot"
+    },
+    {
+        "city_name": "Vikrampur"
+    }
+]

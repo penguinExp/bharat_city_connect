@@ -1,0 +1,884 @@
+[
+    {
+        "city_name": "Addanki"
+    },
+    {
+        "city_name": "Adivivaram"
+    },
+    {
+        "city_name": "Adoni"
+    },
+    {
+        "city_name": "Aganampudi"
+    },
+    {
+        "city_name": "Ajjaram"
+    },
+    {
+        "city_name": "Akividu"
+    },
+    {
+        "city_name": "Akkarampalle"
+    },
+    {
+        "city_name": "Akkayapalle"
+    },
+    {
+        "city_name": "Akkireddipalem"
+    },
+    {
+        "city_name": "Alampur"
+    },
+    {
+        "city_name": "Amalapuram"
+    },
+    {
+        "city_name": "Amudalavalasa"
+    },
+    {
+        "city_name": "Amur"
+    },
+    {
+        "city_name": "Anakapalle"
+    },
+    {
+        "city_name": "Anantapur"
+    },
+    {
+        "city_name": "Andole"
+    },
+    {
+        "city_name": "Atmakur"
+    },
+    {
+        "city_name": "Attili"
+    },
+    {
+        "city_name": "Avanigadda"
+    },
+    {
+        "city_name": "Badepalli"
+    },
+    {
+        "city_name": "Badvel"
+    },
+    {
+        "city_name": "Balapur"
+    },
+    {
+        "city_name": "Bandarulanka"
+    },
+    {
+        "city_name": "Banganapalle"
+    },
+    {
+        "city_name": "Bapatla"
+    },
+    {
+        "city_name": "Bapulapadu"
+    },
+    {
+        "city_name": "Belampalli"
+    },
+    {
+        "city_name": "Bestavaripeta"
+    },
+    {
+        "city_name": "Betamcherla"
+    },
+    {
+        "city_name": "Bhattiprolu"
+    },
+    {
+        "city_name": "Bhimavaram"
+    },
+    {
+        "city_name": "Bhimunipatnam"
+    },
+    {
+        "city_name": "Bobbili"
+    },
+    {
+        "city_name": "Bombuflat"
+    },
+    {
+        "city_name": "Bommuru"
+    },
+    {
+        "city_name": "Bugganipalle"
+    },
+    {
+        "city_name": "Challapalle"
+    },
+    {
+        "city_name": "Chandur"
+    },
+    {
+        "city_name": "Chatakonda"
+    },
+    {
+        "city_name": "Chemmumiahpet"
+    },
+    {
+        "city_name": "Chidiga"
+    },
+    {
+        "city_name": "Chilakaluripet"
+    },
+    {
+        "city_name": "Chimakurthy"
+    },
+    {
+        "city_name": "Chinagadila"
+    },
+    {
+        "city_name": "Chinagantyada"
+    },
+    {
+        "city_name": "Chinnachawk"
+    },
+    {
+        "city_name": "Chintalavalasa"
+    },
+    {
+        "city_name": "Chipurupalle"
+    },
+    {
+        "city_name": "Chirala"
+    },
+    {
+        "city_name": "Chittoor"
+    },
+    {
+        "city_name": "Chodavaram"
+    },
+    {
+        "city_name": "Choutuppal"
+    },
+    {
+        "city_name": "Chunchupalle"
+    },
+    {
+        "city_name": "Cuddapah"
+    },
+    {
+        "city_name": "Cumbum"
+    },
+    {
+        "city_name": "Darnakal"
+    },
+    {
+        "city_name": "Dasnapur"
+    },
+    {
+        "city_name": "Dauleshwaram"
+    },
+    {
+        "city_name": "Dharmavaram"
+    },
+    {
+        "city_name": "Dhone"
+    },
+    {
+        "city_name": "Dommara Nandyal"
+    },
+    {
+        "city_name": "Dowlaiswaram"
+    },
+    {
+        "city_name": "East Godavari Dist."
+    },
+    {
+        "city_name": "Eddumailaram"
+    },
+    {
+        "city_name": "Edulapuram"
+    },
+    {
+        "city_name": "Ekambara kuppam"
+    },
+    {
+        "city_name": "Eluru"
+    },
+    {
+        "city_name": "Enikapadu"
+    },
+    {
+        "city_name": "Fakirtakya"
+    },
+    {
+        "city_name": "Farrukhnagar"
+    },
+    {
+        "city_name": "Gaddiannaram"
+    },
+    {
+        "city_name": "Gajapathinagaram"
+    },
+    {
+        "city_name": "Gajularega"
+    },
+    {
+        "city_name": "Gajuvaka"
+    },
+    {
+        "city_name": "Gannavaram"
+    },
+    {
+        "city_name": "Garacharma"
+    },
+    {
+        "city_name": "Garimellapadu"
+    },
+    {
+        "city_name": "Giddalur"
+    },
+    {
+        "city_name": "Godavarikhani"
+    },
+    {
+        "city_name": "Gopalapatnam"
+    },
+    {
+        "city_name": "Gopalur"
+    },
+    {
+        "city_name": "Gorrekunta"
+    },
+    {
+        "city_name": "Gudivada"
+    },
+    {
+        "city_name": "Gudur"
+    },
+    {
+        "city_name": "Guntakal"
+    },
+    {
+        "city_name": "Guntur"
+    },
+    {
+        "city_name": "Guti"
+    },
+    {
+        "city_name": "Hindupur"
+    },
+    {
+        "city_name": "Hukumpeta"
+    },
+    {
+        "city_name": "Ichchapuram"
+    },
+    {
+        "city_name": "Isnapur"
+    },
+    {
+        "city_name": "Jaggayyapeta"
+    },
+    {
+        "city_name": "Jallaram Kamanpur"
+    },
+    {
+        "city_name": "Jammalamadugu"
+    },
+    {
+        "city_name": "Jangampalli"
+    },
+    {
+        "city_name": "Jarjapupeta"
+    },
+    {
+        "city_name": "Kadiri"
+    },
+    {
+        "city_name": "Kaikalur"
+    },
+    {
+        "city_name": "Kakinada"
+    },
+    {
+        "city_name": "Kallur"
+    },
+    {
+        "city_name": "Kalyandurg"
+    },
+    {
+        "city_name": "Kamalapuram"
+    },
+    {
+        "city_name": "Kamareddi"
+    },
+    {
+        "city_name": "Kanapaka"
+    },
+    {
+        "city_name": "Kanigiri"
+    },
+    {
+        "city_name": "Kanithi"
+    },
+    {
+        "city_name": "Kankipadu"
+    },
+    {
+        "city_name": "Kantabamsuguda"
+    },
+    {
+        "city_name": "Kanuru"
+    },
+    {
+        "city_name": "Karnul"
+    },
+    {
+        "city_name": "Katheru"
+    },
+    {
+        "city_name": "Kavali"
+    },
+    {
+        "city_name": "Kazipet"
+    },
+    {
+        "city_name": "Khanapuram Haveli"
+    },
+    {
+        "city_name": "Kodar"
+    },
+    {
+        "city_name": "Kollapur"
+    },
+    {
+        "city_name": "Kondapalem"
+    },
+    {
+        "city_name": "Kondapalle"
+    },
+    {
+        "city_name": "Kondukur"
+    },
+    {
+        "city_name": "Kosgi"
+    },
+    {
+        "city_name": "Kothavalasa"
+    },
+    {
+        "city_name": "Kottapalli"
+    },
+    {
+        "city_name": "Kovur"
+    },
+    {
+        "city_name": "Kovurpalle"
+    },
+    {
+        "city_name": "Kovvur"
+    },
+    {
+        "city_name": "Krishna"
+    },
+    {
+        "city_name": "Kuppam"
+    },
+    {
+        "city_name": "Kurmannapalem"
+    },
+    {
+        "city_name": "Kurnool"
+    },
+    {
+        "city_name": "Lakshettipet"
+    },
+    {
+        "city_name": "Lalbahadur Nagar"
+    },
+    {
+        "city_name": "Machavaram"
+    },
+    {
+        "city_name": "Macherla"
+    },
+    {
+        "city_name": "Machilipatnam"
+    },
+    {
+        "city_name": "Madanapalle"
+    },
+    {
+        "city_name": "Madaram"
+    },
+    {
+        "city_name": "Madhuravada"
+    },
+    {
+        "city_name": "Madikonda"
+    },
+    {
+        "city_name": "Madugule"
+    },
+    {
+        "city_name": "Mahabubnagar"
+    },
+    {
+        "city_name": "Mahbubabad"
+    },
+    {
+        "city_name": "Malkajgiri"
+    },
+    {
+        "city_name": "Mamilapalle"
+    },
+    {
+        "city_name": "Mancheral"
+    },
+    {
+        "city_name": "Mandapeta"
+    },
+    {
+        "city_name": "Mandasa"
+    },
+    {
+        "city_name": "Mangalagiri"
+    },
+    {
+        "city_name": "Manthani"
+    },
+    {
+        "city_name": "Markapur"
+    },
+    {
+        "city_name": "Marturu"
+    },
+    {
+        "city_name": "Metpalli"
+    },
+    {
+        "city_name": "Mindi"
+    },
+    {
+        "city_name": "Mirpet"
+    },
+    {
+        "city_name": "Moragudi"
+    },
+    {
+        "city_name": "Mothugudam"
+    },
+    {
+        "city_name": "Nagari"
+    },
+    {
+        "city_name": "Nagireddipalle"
+    },
+    {
+        "city_name": "Nandigama"
+    },
+    {
+        "city_name": "Nandikotkur"
+    },
+    {
+        "city_name": "Nandyal"
+    },
+    {
+        "city_name": "Narasannapeta"
+    },
+    {
+        "city_name": "Narasapur"
+    },
+    {
+        "city_name": "Narasaraopet"
+    },
+    {
+        "city_name": "Narayanavanam"
+    },
+    {
+        "city_name": "Narsapur"
+    },
+    {
+        "city_name": "Narsingi"
+    },
+    {
+        "city_name": "Narsipatnam"
+    },
+    {
+        "city_name": "Naspur"
+    },
+    {
+        "city_name": "Nathayyapalem"
+    },
+    {
+        "city_name": "Nayudupeta"
+    },
+    {
+        "city_name": "Nelimaria"
+    },
+    {
+        "city_name": "Nellore"
+    },
+    {
+        "city_name": "Nidadavole"
+    },
+    {
+        "city_name": "Nuzvid"
+    },
+    {
+        "city_name": "Omerkhan daira"
+    },
+    {
+        "city_name": "Ongole"
+    },
+    {
+        "city_name": "Osmania University"
+    },
+    {
+        "city_name": "Pakala"
+    },
+    {
+        "city_name": "Palakole"
+    },
+    {
+        "city_name": "Palakurthi"
+    },
+    {
+        "city_name": "Palasa"
+    },
+    {
+        "city_name": "Palempalle"
+    },
+    {
+        "city_name": "Palkonda"
+    },
+    {
+        "city_name": "Palmaner"
+    },
+    {
+        "city_name": "Pamur"
+    },
+    {
+        "city_name": "Panjim"
+    },
+    {
+        "city_name": "Papampeta"
+    },
+    {
+        "city_name": "Parasamba"
+    },
+    {
+        "city_name": "Parvatipuram"
+    },
+    {
+        "city_name": "Patancheru"
+    },
+    {
+        "city_name": "Payakaraopet"
+    },
+    {
+        "city_name": "Pedagantyada"
+    },
+    {
+        "city_name": "Pedana"
+    },
+    {
+        "city_name": "Peddapuram"
+    },
+    {
+        "city_name": "Pendurthi"
+    },
+    {
+        "city_name": "Penugonda"
+    },
+    {
+        "city_name": "Penukonda"
+    },
+    {
+        "city_name": "Phirangipuram"
+    },
+    {
+        "city_name": "Pithapuram"
+    },
+    {
+        "city_name": "Ponnur"
+    },
+    {
+        "city_name": "Port Blair"
+    },
+    {
+        "city_name": "Pothinamallayyapalem"
+    },
+    {
+        "city_name": "Prakasam"
+    },
+    {
+        "city_name": "Prasadampadu"
+    },
+    {
+        "city_name": "Prasantinilayam"
+    },
+    {
+        "city_name": "Proddatur"
+    },
+    {
+        "city_name": "Pulivendla"
+    },
+    {
+        "city_name": "Punganuru"
+    },
+    {
+        "city_name": "Puttur"
+    },
+    {
+        "city_name": "Qutubullapur"
+    },
+    {
+        "city_name": "Rajahmundry"
+    },
+    {
+        "city_name": "Rajamahendri"
+    },
+    {
+        "city_name": "Rajampet"
+    },
+    {
+        "city_name": "Rajendranagar"
+    },
+    {
+        "city_name": "Rajoli"
+    },
+    {
+        "city_name": "Ramachandrapuram"
+    },
+    {
+        "city_name": "Ramanayyapeta"
+    },
+    {
+        "city_name": "Ramapuram"
+    },
+    {
+        "city_name": "Ramarajupalli"
+    },
+    {
+        "city_name": "Ramavarappadu"
+    },
+    {
+        "city_name": "Rameswaram"
+    },
+    {
+        "city_name": "Rampachodavaram"
+    },
+    {
+        "city_name": "Ravulapalam"
+    },
+    {
+        "city_name": "Rayachoti"
+    },
+    {
+        "city_name": "Rayadrug"
+    },
+    {
+        "city_name": "Razam"
+    },
+    {
+        "city_name": "Razole"
+    },
+    {
+        "city_name": "Renigunta"
+    },
+    {
+        "city_name": "Repalle"
+    },
+    {
+        "city_name": "Rishikonda"
+    },
+    {
+        "city_name": "Salur"
+    },
+    {
+        "city_name": "Samalkot"
+    },
+    {
+        "city_name": "Sattenapalle"
+    },
+    {
+        "city_name": "Seetharampuram"
+    },
+    {
+        "city_name": "Serilungampalle"
+    },
+    {
+        "city_name": "Shankarampet"
+    },
+    {
+        "city_name": "Shar"
+    },
+    {
+        "city_name": "Singarayakonda"
+    },
+    {
+        "city_name": "Sirpur"
+    },
+    {
+        "city_name": "Sirsilla"
+    },
+    {
+        "city_name": "Sompeta"
+    },
+    {
+        "city_name": "Sriharikota"
+    },
+    {
+        "city_name": "Srikakulam"
+    },
+    {
+        "city_name": "Srikalahasti"
+    },
+    {
+        "city_name": "Sriramnagar"
+    },
+    {
+        "city_name": "Sriramsagar"
+    },
+    {
+        "city_name": "Srisailam"
+    },
+    {
+        "city_name": "Srisailamgudem Devasthanam"
+    },
+    {
+        "city_name": "Sulurpeta"
+    },
+    {
+        "city_name": "Suriapet"
+    },
+    {
+        "city_name": "Suryaraopet"
+    },
+    {
+        "city_name": "Tadepalle"
+    },
+    {
+        "city_name": "Tadepalligudem"
+    },
+    {
+        "city_name": "Tadpatri"
+    },
+    {
+        "city_name": "Tallapalle"
+    },
+    {
+        "city_name": "Tanuku"
+    },
+    {
+        "city_name": "Tekkali"
+    },
+    {
+        "city_name": "Tenali"
+    },
+    {
+        "city_name": "Tigalapahad"
+    },
+    {
+        "city_name": "Tiruchanur"
+    },
+    {
+        "city_name": "Tirumala"
+    },
+    {
+        "city_name": "Tirupati"
+    },
+    {
+        "city_name": "Tirvuru"
+    },
+    {
+        "city_name": "Trimulgherry"
+    },
+    {
+        "city_name": "Tuni"
+    },
+    {
+        "city_name": "Turangi"
+    },
+    {
+        "city_name": "Ukkayapalli"
+    },
+    {
+        "city_name": "Ukkunagaram"
+    },
+    {
+        "city_name": "Uppal Kalan"
+    },
+    {
+        "city_name": "Upper Sileru"
+    },
+    {
+        "city_name": "Uravakonda"
+    },
+    {
+        "city_name": "Vadlapudi"
+    },
+    {
+        "city_name": "Vaparala"
+    },
+    {
+        "city_name": "Vemalwada"
+    },
+    {
+        "city_name": "Venkatagiri"
+    },
+    {
+        "city_name": "Venkatapuram"
+    },
+    {
+        "city_name": "Vepagunta"
+    },
+    {
+        "city_name": "Vetapalem"
+    },
+    {
+        "city_name": "Vijayapuri"
+    },
+    {
+        "city_name": "Vijayapuri South"
+    },
+    {
+        "city_name": "Vijayawada"
+    },
+    {
+        "city_name": "Vinukonda"
+    },
+    {
+        "city_name": "Visakhapatnam"
+    },
+    {
+        "city_name": "Vizianagaram"
+    },
+    {
+        "city_name": "Vuyyuru"
+    },
+    {
+        "city_name": "Wanparti"
+    },
+    {
+        "city_name": "West Godavari Dist."
+    },
+    {
+        "city_name": "Yadagirigutta"
+    },
+    {
+        "city_name": "Yarada"
+    },
+    {
+        "city_name": "Yellamanchili"
+    },
+    {
+        "city_name": "Yemmiganur"
+    },
+    {
+        "city_name": "Yenamalakudru"
+    },
+    {
+        "city_name": "Yendada"
+    },
+    {
+        "city_name": "Yerraguntla"
+    }
+]
